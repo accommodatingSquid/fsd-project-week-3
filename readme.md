@@ -18,7 +18,7 @@ This project focuses on creating a fun and interactive platform to highlight per
 
 ### **Must Have (Required for Passing):**
 
-- [ ] HTML5 document structure (DOCTYPE, html, head, body)
+- [x] HTML5 document structure (DOCTYPE, html, head, body)
 - [ ] Semantic HTML5 elements (header, nav, main, section, article, footer)
 - [ ] External CSS stylesheet properly linked
 - [ ] Meta viewport tag and title optimization
